@@ -1,0 +1,2 @@
+# JSTut
+Easy JS exercises
